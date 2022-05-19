@@ -7,7 +7,7 @@
 ### <div align="center">This is just a PDF password remover</div>  
   
 
-- **🐥 Easy to use just download and drag [HERE](https://github.com/imcr1/justpdfunlocker/releases)**  
+- **🐥 Nobiie ? just download and start draging [HERE](https://github.com/imcr1/justpdfunlocker/releases)**  
   
 
 - 🧠 Are you geek ? Help me adding multi-files remover :>  
